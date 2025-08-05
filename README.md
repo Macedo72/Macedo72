@@ -1,12 +1,62 @@
-# Hi there 👋
+# 👋 Hello, I'm João Gabriel
 
-I'm **João Gabriel**, a 4th-semester Software Engineering student and an enthusiast in the field of **Software Testing and QA**.
+🎓 I’m a 4th-semester Software Engineering student with strong interest and practical knowledge in **Quality Assurance (QA)**, **Object-Oriented Design**, and **Software Project Management**.
 
-- 🎓 Software Engineering student (4th semester)  
-- 🧪 Enthusiast in QA and Software Testing  
-- ☕ Experience with Java  
-- 🛢️ Familiar with SQL  
-- 🌐 Front-End Web Development  
-- 📁 Sharing academic and personal projects
+---
 
-I'm always open to learning, collaborating, and growing in the world of software development and quality assurance. Let's connect!
+## 👨‍💻 About Me
+
+- 💡 Passionate about software quality, automation, and continuous learning
+- 🔍 QA enthusiast with experience in testing tools and frameworks
+- 🧠 Strong background in **Java programming**, including **clean code** and **best practices**
+- 🔧 Experience with **Object-Oriented Analysis & Design** using **UML**
+- 🛠️ Skilled in **SQL databases**, software testing, and web application automation
+- 🌐 Interested in **IoT and microcontroller-based projects**
+- 📈 Experienced with **agile methodologies** and modern development workflows
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Logic
+- Java (including OOP principles, design patterns, and best practices)
+- Programming logic with focus on clean, maintainable code
+
+### 🧪 Software Testing & QA
+- Automated Web Testing: **Selenium**, **Cypress**, **Playwright**, **Robot Framework**
+- Test planning and execution for web applications
+- Familiar with writing and maintaining test scripts
+- Enthusiastic about improving software quality through automation
+
+### 📊 Project Analysis & Design
+- Object-Oriented Design using **UML**
+- Software project documentation and analysis
+
+### 💾 Databases
+- Relational databases using **SQL**
+- Data modeling and querying
+
+### 🌐 IoT & Microcontrollers
+- Knowledge in microcontroller programming and **IoT concepts**
+
+### 📁 Tools & Workflows
+- Version Control: **Git** & **GitHub**
+- Agile Methodologies (Scrum, Kanban)
+
+---
+
+## 📌 Goals
+
+- Expand my experience with real-world QA projects  
+- Contribute to open-source tools related to testing and automation  
+- Continue improving my skills in **Java**, **automation**, and **software architecture**
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaboration, project opportunities, or just a good tech conversation!
+
+- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/joão-gabriel-macedo-4185692b7])  
+- 📧 Email: joaogabrielmacedops@gmail.com
+
