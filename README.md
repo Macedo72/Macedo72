@@ -43,6 +43,10 @@
 - Version Control: **Git** & **GitHub**
 - Agile Methodologies (Scrum, Kanban)
 
+## 💻 Programming Languages & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel&layout=compact&langs_count=6)
+
 ---
 
 ## 📌 Goals
