@@ -61,6 +61,6 @@
 
 I'm always open to collaboration, project opportunities, or just a good tech conversation!
 
-- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/joão-gabriel-macedo-4185692b7])  
+- 🔗 ([https://www.linkedin.com](https://www.linkedin.com/joão-gabriel-macedo-4185692b7])  
 - 📧 Email: joaogabrielmacedops@gmail.com
 
