@@ -1,66 +1,64 @@
 # 👋 Hello, I'm João Gabriel
 
-🎓 I’m a 4th-semester Software Engineering student with strong interest and practical knowledge in **Quality Assurance (QA)**, **Object-Oriented Design**, and **Software Project Management**.
+🎓 I’m a 4th-semester **Software Engineering** student passionate about **Data Analysis**, **Business Intelligence (BI)**, and **Back-End Development**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💡 Passionate about software quality, automation, and continuous learning
-- 🔍 QA enthusiast with experience in testing tools and frameworks
-- 🧠 Strong background in **Java programming**, including **clean code** and **best practices**
-- 🔧 Experience with **Object-Oriented Analysis & Design** using **UML**
-- 🛠️ Skilled in **SQL databases**, software testing, and web application automation
-- 🌐 Interested in **IoT and microcontroller-based projects**
-- 📈 Experienced with **agile methodologies** and modern development workflows
+- 💡 Enthusiastic about turning data into insights and building data-driven solutions  
+- 🧠 Strong foundation in **Python** for back-end and data processing  
+- 💾 Skilled in **SQL** and relational database design  
+- 📊 Interest in **BI tools**, **data visualization**, and **ETL processes**  
+- 🔧 Experience with **Object-Oriented Programming (OOP)** and **software design principles**  
+- 🌐 Passion for developing efficient, scalable systems and exploring data technologies  
+- 📈 Knowledge of **agile methodologies** and modern development workflows  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Logic
-- Java (including OOP principles, design patterns, and best practices)
-- Programming logic with focus on clean, maintainable code
+### 💻 Programming & Back-End
+- **Python** (OOP, Flask, Pandas, NumPy, data analysis, and back-end development)  
+- **Java** (OOP, Spring Boot, design patterns, and clean architecture)  
+- RESTful API development and modular system design  
 
-### 🧪 Software Testing & QA
-- Automated Web Testing: **Selenium**, **Cypress**, **Playwright**, **Robot Framework**
-- Test planning and execution for web applications
-- Familiar with writing and maintaining test scripts
-- Enthusiastic about improving software quality through automation
+### 📊 Data & BI
+- **SQL** (data modeling, queries, stored procedures)  
+- **Business Intelligence** and **data visualization** concepts  
+- Data analysis using **Python** (Pandas, Matplotlib, Seaborn)  
+- Familiar with **ETL pipelines** and **data cleaning**  
 
-### 📊 Project Analysis & Design
-- Object-Oriented Design using **UML**
-- Software project documentation and analysis
+### 🧩 Analysis & Design
+- **UML** for system and project modeling  
+- Software documentation and requirements analysis  
 
-### 💾 Databases
-- Relational databases using **SQL**
-- Data modeling and querying
+### ⚙️ Tools & Workflows
+- Version Control: **Git** & **GitHub**  
+- **Agile Methodologies** (Scrum, Kanban)  
+- Collaboration and project management tools  
 
-### 🌐 IoT & Microcontrollers
-- Knowledge in microcontroller programming and **IoT concepts**
-
-### 📁 Tools & Workflows
-- Version Control: **Git** & **GitHub**
-- Agile Methodologies (Scrum, Kanban)
+---
 
 ## 💻 Programming Languages & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel&layout=compact&langs_count=6)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,vscode,pycharm,postgresql,flask" />
+</p>
 
 ---
 
 ## 📌 Goals
 
-- Expand my experience with real-world QA projects  
-- Contribute to open-source tools related to testing and automation  
-- Continue improving my skills in **Java**, **automation**, and **software architecture**
+- Develop strong experience in **data analysis** and **BI** projects  
+- Contribute to open-source and collaborative **Python** or **data-related** initiatives  
+- Improve my technical and analytical skills to build data-driven applications  
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaboration, project opportunities, or just a good tech conversation!
+I’m open to collaboration, learning opportunities, and professional networking!
 
-- 🔗 ([https://www.linkedin.com](https://www.linkedin.com/in/joão-gabriel-macedo-4185692b7/?trk=opento_sprofile_details)  
-- 📧 Email: joaogabrielmacedops@gmail.com
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joao-gabriel-macedo-pereira-silva)  
+- 📧 **Email:** joaogabrielmacedops@gmail.com
